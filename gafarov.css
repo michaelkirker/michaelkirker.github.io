@@ -1,0 +1,70 @@
+/****************************************************************************************************************************/
+/****************************************************************************************************************************
+	    file:  gafarov.css
+	contents:  Template for job market websites originaly designed for Bulat Gafarov
+	  author:  Bruno Salcedo -- http://brunosalcedo.com
+	    date:  November 2014
+	 version:  2.0
+****************************************************************************************************************************/
+/****************************************************************************************************************************/
+/* *{border:1px solid;} /* All borders, for edditing purposes*/
+/****************************************************************************************************************************/
+/**************************************************************** general ***************************************************/
+html {-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%; height: 100%;} 	
+body{line-height: 1.75;font-weight: 300;font-size:110%; height: 100%;overflow-y:scroll;}
+#page{position:relative; width:100%;min-height: 100% ;max-width:960px; margin:0 auto; background-color: white;}
+*{margin:0;padding:0;transition: all 1.6s;}
+/****************************************************************************************************************************/
+/************************************************************** header ******************************************************/
+h1,#tagline{height: 2em; line-height: 2em; white-space: nowrap;text-align: center;margin-left:15%;}
+h1{font-size: 200%; font-weight: 100; padding-top: 1em;}
+#tagline{border-bottom:10px solid; padding-bottom: 1em;}
+/****************************************************************************************************************************/
+/************************************************************** menu ********************************************************/
+#menu{display: block; position: absolute; left:0; width: 15%; text-align: right;}
+#menu a{ display: block; height: 4em; line-height: 4em; white-space: nowrap;
+	padding-right: 2em; margin-right: -10px; border-right: 10px solid white;color:inherit;}
+#menu a i{display: none;}
+/****************************************************************************************************************************/
+/************************************************************** contents ****************************************************/
+#contents{position:relative;margin-left:15%;display: block; text-align: justify;padding: 4em;min-height: 100%;}
+h2{display: block;padding: 16px 0;font-size: 120%;text-align: center;font-weight: bold;margin-top: 4em;}
+h3{display: block;padding: 16px 0;font-size: 100%;text-align: left;font-weight: bold;margin:2em 2em 0;}
+h2:first-of-type{margin:0 0 16px;}
+h3:first-of-type{margin-top:1em;}
+p{margin: 0 2em;padding: 1em 2em;}
+ul{margin: 0 2em; padding-left: 2em;}
+a{text-decoration: none;}
+.center{text-align: center;}
+/****************************************************************************************************************************/
+/************************************************************  Picture ******************************************************/
+#JMPic{display:block;margin: 0 auto;}
+.caption{display: block;text-align: center;margin: 2em auto; max-width: 500px;}
+/****************************************************************************************************************************/
+/************************************************************  Responsive ***************************************************/
+@media (max-width: 980px){h1{padding-top: 0;}}
+@media (max-width: 740px){
+	#menu a{padding-right: 1em;}
+	h3{margin:2em 0 0;}
+	ul,p{margin: 0;}
+	}
+@media (max-width: 600px){
+	h1,#tagline{height: 1.5em; line-height: 1.5em; }
+	h1{margin-left: 1.5em;}
+	#contents,#tagline{margin-left:3em;	}
+	#menu {width: 3em; padding: 0; text-align: center;}
+	#menu a {width: 3em; height:3em; line-height: 3em;padding: 0; }
+	#menu a i{display: inline;}
+	#menu a span{display: none;}
+	#contents{padding: 3em;}
+	p{padding: 16px 0;}
+}
+@media (max-width: 440px){
+	h1{font-size: 150%;margin-left: 2em;height: 2em;line-height: 2em;}
+	#tagline{height:0; padding:0; overflow: hidden;border-bottom-width:5px;}
+	#menu a{margin-right: -5px; border-right-width:5px;}	
+	body{font-size: 90%;}
+	#contents{text-align: left;}
+}
+/****************************************************************************************************************************/
+/****************************************************************  End ******************************************************/
