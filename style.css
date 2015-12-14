@@ -16,7 +16,7 @@ h1 {font-family: 'Open Sans', sans-serif; } /* Title */
 /***********************************************************************************************************************/
 /************************************************************* background **********************************************/
 /* Body background for desktop version */
-body{background-color: #500; background-image: url("documents/black-linen.png");}
+body{background-color: #500; background-image: url("images/black-linen.png");}
 @media (max-width: 1280px){body{background: none;}}
 /***********************************************************************************************************************/
 /************************************************************** color ***************************************************/
@@ -29,5 +29,5 @@ body{background-color: #500; background-image: url("documents/black-linen.png");
 @media (max-width: 600px){#current,#menu a:hover{color: #A00 !important;}}
 /***********************************************************************************************************************/
 /************************************************************  Picture *************************************************/
-#JMPic{width: 80%;max-width:280px;height:auto;} /* Controls the size of JMP */
+#JMPic{width: 80%;max-width:400px;height:auto;} /* Controls the size of JMP */
 
