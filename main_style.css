@@ -36,6 +36,7 @@ p{margin: 0 2em;padding: 1em 2em;}
 ul{margin: 0 2em; padding-left: 2em;}
 a{text-decoration: none;}
 .center{text-align: center;}
+#contents h1{height: 1.5em; line-height: 2em; white-space: nowrap;text-align: center;}
 /****************************************************************************************************************************/
 /************************************************************  Picture ******************************************************/
 #JMPic{display:block;margin: 0 auto;}
@@ -68,3 +69,13 @@ a{text-decoration: none;}
 }
 /****************************************************************************************************************************/
 /****************************************************************  End ******************************************************/
+
+#PageTitle {
+	width=100%;
+	font-size: 200%;
+	line-height: 1em;
+	margin: auto;
+	border-bottom:1px solid; padding-bottom: 0.25em;
+	border-color: #ddd
+}
+

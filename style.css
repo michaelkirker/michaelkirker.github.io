@@ -15,8 +15,8 @@ body{ font-family: 'Open Sans Condensed', sans-serif;} /* Body*/
 h1 {font-family: 'Open Sans', sans-serif; } /* Title */
 /***********************************************************************************************************************/
 /************************************************************* background **********************************************/
-/* Body background for desktop version */
-body{background-color: #500; background-image: url("images/black-linen.png");}
+/* Body background for desktop version  500*/
+body{background-color: #8c8c8c; }
 @media (max-width: 1280px){body{background: none;}}
 /***********************************************************************************************************************/
 /************************************************************** color ***************************************************/
