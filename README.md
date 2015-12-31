@@ -1,9 +1,17 @@
 # michaelkirker.github.io
-Files for the website of Michael Kirker
+
+This repository contains the files for my website [michaelkirker.net](http://michaelkirker.net).
 
 
+The website theme builds upon the public domain template by Bruno Salcedo, originally downloaded from [http://www.personal.psu.edu/bxs5142/design.html](http://www.personal.psu.edu/bxs5142/design.html).
 
-Currently testing out the theme and hosting. Detail and supporting documents to come shortly
 
+## Contact details ##
 
-http://www.personal.psu.edu/bxs5142/design.html
+Michael Kirker
+
+* Email: mkirker@uchicago.edu
+
+* Website: [michaelkirker.net](http://michaelkirker.net)
+
+* Git repository for this project:
