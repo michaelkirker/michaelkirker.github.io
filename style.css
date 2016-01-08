@@ -38,7 +38,7 @@ h1{font-size: 200%; font-weight: 100; padding-top: 1em;}
 /****  CONTENTS  ************************************************************************************************************/
 #contents{position:relative;margin-left:15%;display: block; text-align: justify;padding: 4em;min-height: 100%;}
 h2{display: block;padding: 16px 0;font-size: 120%;text-align: center;font-weight: bold;margin-top: 4em;}
-h3{display: block;padding: 16px 0 0 16px;font-size: 100%;text-align: left;font-weight: bold;margin:1em 0em 0;}
+h3{display: block;padding: 0.25em 0 0 0.25em;font-size: 100%;text-align: left;font-weight: bold;margin:1em 0em 0;}
 h2:first-of-type{margin:0 0 16px;}
 h3:first-of-type{margin-top:1em;}
 p{margin: 0 2em;padding: 0.75em 1em;}
