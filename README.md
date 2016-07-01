@@ -10,8 +10,8 @@ The website theme builds upon the public domain template by Bruno Salcedo, origi
 
 Michael Kirker
 
-* Email: mkirker@uchicago.edu
+* Email: <mkirker@uchicago.edu>
 
 * Website: [michaelkirker.net](http://michaelkirker.net)
 
-* Git repository for this project:
+* Git repository for this project: [https://github.com/michaelkirker/michaelkirker.github.io](https://github.com/michaelkirker/michaelkirker.github.io)
