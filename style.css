@@ -40,12 +40,12 @@ h1{font-size: 200%; font-weight: 100; padding-top: 1em;}
 h2{display: block;padding: 16px 0;font-size: 120%;text-align: center;font-weight: bold;margin-top: 1em; margin-bottom: 16px; border-bottom:1px solid; border-color: #ddd}
 h3{display: block;padding: 0.25em 0 0 0.25em;font-size: 100%;text-align: left;font-weight: bold;margin:2em 0em 0em 0em;}
 h3:first-of-type{margin-top:1em;}
-p{margin: 0 2em;padding: 0.5em 1em;}
+p{margin: 0 1em;padding: 0.5em 1em;}
 #papertitle{margin: 0 0em;padding: 3em 0em 0em 0em; font-weight: bold; font-size: 105%;}
-#paperdescript{margin: 0 0em 0em 0em;padding: 0em 0em;}
-#paperauthors{margin: 0 0em 0.5em 0em;padding: 0em 0em;}
+#paperdescript{margin: 0 0em 0em 1em;padding: 0em 1em;}
+#paperauthors{margin: 0 0em 0.5em 1em;padding: 0em 1em;}
 
-ul{margin: 0 2em; padding-left: 2em;}
+ul{margin: 0 1em; padding-left: 2em;}
 a{text-decoration: none;}
 .center{text-align: center;}
 #contents h1{height: 1.5em; line-height: 2em; white-space: nowrap;text-align: center;}
@@ -102,7 +102,7 @@ a{text-decoration: none;}
 #tagline{border-color:#A00;}
 #current,#menu a:hover{border-right-color: #A00 !important;color: #A00;background-color: #ddd; transition: 0.0s;}
 #menu a:hover{border-right-color: #A00 !important;color: #A00;background-color: #ddd; transition: 1s;}
-#contents a{color: #A11;}
+#contents a{color: #A00;}
 #contents a:hover{background-color: #ddd;color: #A11;}
 @media (max-width: 600px){#current,#menu a:hover{color: #A11 !important;}}
 /****************************************************************************************************************************/
