@@ -7,7 +7,7 @@ h1 {font-family: 'Open Sans', sans-serif; } /* Title */
 
 /****  BACKGROUND  **********************************************************************************************************/
 /* Body background for desktop version  500*/
-body{background-color: #8c8c8c; }
+body{background-color: #4D505B; }
 @media (max-width: 1280px){body{background: none;}}
 /****************************************************************************************************************************/
 
@@ -23,7 +23,7 @@ body{line-height: 1.4;font-weight: 400;font-size:100%; height: 100%;overflow-y:s
 
 /****  HEADER  **************************************************************************************************************/
 h1,#tagline{height: 2em; line-height: 2em; white-space: nowrap;text-align: center;margin-left:15%;}
-h1{font-size: 200%; font-weight: 100; padding-top: 1em;}
+h1{font-size: 250%; font-weight: 100; padding-top: 1em;}
 #tagline{border-bottom:10px solid; padding-bottom: 1em;}
 /****************************************************************************************************************************/
 
