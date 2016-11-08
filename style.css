@@ -8,7 +8,7 @@ h1 {font-family: 'Open Sans', sans-serif; } /* Title */
 /****  BACKGROUND  **********************************************************************************************************/
 /* Body background for desktop version  500*/
 body{background-color: #4D505B; }
-@media (max-width: 980px){body{background: none;}}
+@media (max-width: 1024px){body{background: none;}}
 /****************************************************************************************************************************/
 
 /* *{border:1px solid;} /* All borders, for edditing purposes*/
@@ -17,7 +17,7 @@ body{background-color: #4D505B; }
 /****  GENERAL  *************************************************************************************************************/
 html {-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%; height: 100%;} 	
 body{line-height: 1.4;font-weight: 400;font-size:100%; height: 100%;overflow-y:scroll;}
-#page{position:relative; width:100%;min-height: 100% ;max-width:960px; margin:0 auto; background-color: white;}
+#page{position:relative; width:100%;min-height: 100% ;max-width:1200px; margin:0 auto; background-color: white;}
 *{margin:0;padding:0;transition: all 0s;}
 /****************************************************************************************************************************/
 
