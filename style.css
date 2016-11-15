@@ -59,7 +59,7 @@ padding-bottom: 0.5em; margin-bottom: 4em}
 	
 /*#menu a i{display: none; } */
 
-#current,#menu a:hover{border-right-color: #A00 !important;color: white; background-color: #232323; transition: 0.0s; font-weight: bold; } /* border-right: 10px solid #A00; */
+#current,#menu a:hover{border-right-color: #A00 !important;color: white; background-color: #5e5e5e; transition: 0.0s; font-weight: bold; } /* border-right: 10px solid #A00; */
 
 #menu a:hover{border-right-color: #A00 !important;color: white; background-color: #37b158; transition: 0.5s;}
 /****************************************************************************************************************************/
