@@ -2,9 +2,7 @@
 
 This repository contains the files for my website [michaelkirker.net](http://michaelkirker.net).
 
-
-The website theme builds upon one of the templates created by Bruno Salcedo, downloaded from [http://www.personal.psu.edu/bxs5142/design.html](http://www.personal.psu.edu/bxs5142/design.html).
-
+This version is a dark theme of the website
 
 ## Contact details ##
 
