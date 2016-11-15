@@ -134,6 +134,7 @@ a{text-decoration: none;}
 	#menu a i{display: none;}		/* Stop displaying icons*/
 	#menu a span{display: inline;}		/* Display words in menu*/
 	/*#menu a {padding: 0; }*/
+	#menu a{padding-right: 1em;}
 }
 	
 @media (max-width: 1000px){	
