@@ -68,7 +68,6 @@ padding-bottom: 0.5em; margin-bottom: 4em}
 /****  CONTENTS  ************************************************************************************************************/
 /* The main content of the page */
 #contents{position:relative; margin-left:10%; display: block; text-align: justify; padding: 0em;min-height: 100%;  color:#b6b6b6; padding-left: 5%; padding-right: 5%;
-background-color: #292929;
 } 
 
 h2{display: block;padding: 2em 0em 0em 0em; font-size: 150%; font-weight: 100; text-align: center; margin-top: 1em; 
