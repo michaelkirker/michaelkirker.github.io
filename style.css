@@ -54,9 +54,8 @@ color: #3f3f3f;}
 #menu{display: block; position: fixed; left:0; width: 10%; text-align: right; background-color: #333333; min-height: 100%; color:#bfbfbf;}	/*  max-width: 200px*/
 #menu a{ display: block; height: 4em; line-height: 4em; white-space: nowrap;
 	padding-right: 2em; margin-right: -10px;  color:inherit;
-	border-bottom:1px solid black;}
+	}
 
-#menu a:first-of-type{border-top:1px solid black;}
 
 	
 /*#menu a i{display: none; } */
