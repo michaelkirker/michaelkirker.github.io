@@ -22,6 +22,7 @@ body{line-height: 1.4;font-weight: 400;font-size:100%; height: 100%;overflow-y:s
 /****************************************************************************************************************************/
 
 /****  HEADER  **************************************************************************************************************/
+/* My name and description at the top of all pages*/
 
 
 @font-face {
@@ -36,20 +37,21 @@ body{line-height: 1.4;font-weight: 400;font-size:100%; height: 100%;overflow-y:s
 	padding-top: 0.25em; height: 1.5em; line-height: 2em;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
-	white-space: nowrap;text-align: left; color: white;
+	white-space: nowrap;text-align: left; color: black;
 	}
 
 /* #titlename{font-size: 250%; font-weight: 100; padding-top: 0.25em; height: 2em; line-height: 2em; white-space: nowrap;text-align: left; font-family: 'Open Sans', sans-serif; color: white;} */
 
 
 #tagline{height: 2em; line-height: 2em; white-space: nowrap;text-align: left; 
-border-bottom:5px solid; border-color:#4b6eaf;
-padding-bottom: 0.5em; margin-bottom: 4em}
+border-bottom:5px solid; border-color:#b50000;
+padding-bottom: 0.5em; margin-bottom: 4em;
+color: #3f3f3f;}
 
 /****************************************************************************************************************************/
 
 /****  MENU  ****************************************************************************************************************/
-#menu{display: block; position: fixed; left:0; width: 10%; text-align: right; background-color: #141414; min-height: 100%; color:#b6b6b6;}	/*  max-width: 200px*/
+#menu{display: block; position: fixed; left:0; width: 10%; text-align: right; background-color: #333333; min-height: 100%; color:#bfbfbf;}	/*  max-width: 200px*/
 #menu a{ display: block; height: 4em; line-height: 4em; white-space: nowrap;
 	padding-right: 2em; margin-right: -10px;  color:inherit;
 	border-bottom:1px solid black;}
@@ -59,27 +61,27 @@ padding-bottom: 0.5em; margin-bottom: 4em}
 	
 /*#menu a i{display: none; } */
 
-#current,#menu a:hover{border-right-color: #A00 !important;color: white; background-color: #5e5e5e; transition: 0.0s; font-weight: bold; } /* border-right: 10px solid #A00; */
+#current{border-right-color: #A00 !important;color: white; background-color: #5e5e5e; transition: 0.0s; font-weight: bold; } /* border-right: 10px solid #A00; */
 
-#menu a:hover{border-right-color: #A00 !important;color: white; background-color: #37b158; transition: 0.5s;}
+#menu a:hover{border-right-color: #A00 !important; color: white; background-color: #800000; transition: 0.5s; font-weight: bold;}
 /****************************************************************************************************************************/
 
 
 /****  CONTENTS  ************************************************************************************************************/
 /* The main content of the page */
-#contents{position:relative; margin-left:10%; display: block; text-align: justify; padding: 0em;min-height: 100%;  color:#b6b6b6; padding-left: 5%; padding-right: 5%;
+#contents{position:relative; margin-left:10%; display: block; text-align: justify; padding: 0em;min-height: 100%;  color:black; padding-left: 5%; padding-right: 5%;
 } 
 
-h2{display: block;padding: 2em 0em 0em 0em; font-size: 150%; font-weight: 100; text-align: center; margin-top: 1em; 
+h2{display: block;padding: 2em 0em 0em 0em; font-size: 170%; font-weight: 100; text-align: center; margin-top: 1em; 
 border-bottom:1px solid; border-color: #ddd;
-color: white;
+color: black;
 }
 
 h3{display: block;padding: 2.25em 0 .2em 0.25em;font-size: 100%;text-align: left;font-weight: bold; 
-color: white;}
-h3:first-of-type{padding-top:1em; color: white;}
+color: black;}
+h3:first-of-type{padding-top:1em; color: black;}
 p{margin: 0 1em;padding: 0.5em 1em;}
-#papertitle{margin: 0 0em;padding: 1em 0em 0em 1em; font-size: 110%;}
+#papertitle{margin: 0 0em;padding: 1em 0em 0em 1em; font-size: 120%;}
 #paperdescript{margin: 0 0em 0em 1em;padding: 0em 2em;}
 #paperauthors{margin: 0 0em 0.5em 1em;padding: 0em 2em;}
 
@@ -91,19 +93,21 @@ li{ margin-bottom: 0.5em}
 a{text-decoration: none;}
 .center{text-align: center;}
 #contents h1{height: 1.5em; line-height: 2em; white-space: nowrap;text-align: left; color: white;}
+
+
 #PageTitle {
 	width=100%;
-	font-size: 200%;
-	font-weight: 100;
+	font-size: 230%;
 	line-height: 1em;
 	margin: auto;
 	border-bottom:1px solid; padding-bottom: 0.25em;
 	border-color: #ddd;
-	color: white;
+	color: black;
+	font-weight: 100;
 }
 
-.dark{background-color: #292929; }	/* #2c2c2c*/
-.light{background-color: #303030; } /* #2b2b2b*/
+.dark{background-color: #efefef; }	/* #f3f3f3 */
+.light{background-color: #f3f3f3; } /* #efefef */
 
 
 /****************************************************************************************************************************/
@@ -164,8 +168,8 @@ a{text-decoration: none;}
 #body{color: green;}
 
 
-#contents a{color: #cb602d;}
-#contents a:hover{color: #008080;}
+#contents a{color: #b00000;}
+#contents a:hover{color:  #508fdc;}
 @media (max-width: 650px){#current,#menu a:hover{color: white !important;}}
 /****************************************************************************************************************************/
 
