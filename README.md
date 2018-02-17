@@ -24,5 +24,7 @@ Below are some of the resources/guides I found useful when setting up my website
 	- [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
 	- [http://alexcican.com/post/guide-hosting-website-dropbox-github/](http://alexcican.com/post/guide-hosting-website-dropbox-github/)
 - Google domains and Github
-	- [http://blog.christopherkylehorton.com/2015/01/setting-up-my-custom-domain-with-github.html](http://blog.christopherkylehorton.com/2015/01/setting-up-my-custom-domain-with-github.html)
-	- [http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/)
+  - [http://blog.christopherkylehorton.com/2015/01/setting-up-my-custom-domain-with-github.html](http://blog.christopherkylehorton.com/2015/01/setting-up-my-custom-domain-with-github.html)
+  - [http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/)
+- Forwarding domain email to gmail
+  - [https://productforums.google.com/forum/#!topic/gmail/R4vrbItLTX0](https://productforums.google.com/forum/#!topic/gmail/R4vrbItLTX0)
