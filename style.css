@@ -7,18 +7,18 @@ h1 {font-family: 'Open Sans', sans-serif; } /* Title */
 
 /****  BACKGROUND  **********************************************************************************************************/
 /* Body background for desktop version  500*/
-body{background-color: #2b2b2b; }			/* background color for side bars on large screens*/
-@media (max-width: 1024px){body{background: none;}}
+body{background-color: #fafafa; }			/* background color for side bars on large screens*/
+@media (max-width: 1024px){body{background: none; }}
 /****************************************************************************************************************************/
 
 /* *{border:1px solid;} /* All borders, for edditing purposes*/
 /****************************************************************************************************************************/
 
 /****  GENERAL  *************************************************************************************************************/
-html {-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%; height: 100%;} 	
-body{line-height: 1.4;font-weight: 400;font-size:100%; height: 100%;overflow-y:scroll;}
-#page{position:relative; width:100%;min-height: 100% ; margin:0 auto; background-color:  #141414;} /* #292929 max-width:1100px; */
-*{margin:0;padding:0;transition: all 0s;}
+html {-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%; height: 100%; } 	
+body{line-height: 1.4;font-weight: 400;font-size:100%; height: 100%;overflow-y:scroll; }
+#page{position:relative; width:100%;min-height: 100% ; margin:0 auto; background-color:  #fafafa;} /*edeef0 #292929 max-width:1100px; */
+*{margin:0;padding:0;transition: all 0s; }
 /****************************************************************************************************************************/
 
 /****  HEADER  **************************************************************************************************************/
@@ -68,7 +68,7 @@ color: #3f3f3f;}
 
 /****  CONTENTS  ************************************************************************************************************/
 /* The main content of the page */
-#contents{position:relative; margin-left:10%; display: block; text-align: justify; padding: 0em;min-height: 100%;  color:black; padding-left: 5%; padding-right: 5%; background-color: #fafafa;
+#contents{position:relative; margin-left:10%; display: block; text-align: justify; padding: 0em; min-height: 100%;  color:black; padding-left: 5%; padding-right: 5%; background-color: #fafafa;
 } 
 
 
@@ -99,7 +99,7 @@ ul{ padding-left: 3em;  padding-bottom: 1em;}
 li{ margin-bottom: 0.5em}
 a{text-decoration: none;}
 .center{text-align: center;}
-#contents h1{height: 1.5em; line-height: 2em; white-space: nowrap;text-align: left; color: white;}
+#contents h1{height: 1.5em; line-height: 2em; white-space: nowrap;text-align: left; color: white; }
 
 
 #PageTitle {
@@ -176,7 +176,7 @@ a{text-decoration: none;}
 
 /****  COLOR  ***************************************************************************************************************/
 /* 3 color scheme: #A00 for highlights; #733 for links; #ddd for sub-backgrounds A00*/
-#body{color: green;}
+#body{color: green; }
 
 
 #contents a{color: #b00000;}
