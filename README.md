@@ -1,14 +1,14 @@
 # michaelkirker.github.io
 
-This repository contains the files for my website [michaelkirker.net](http://michaelkirker.net).
+This repository hosts the files for my website [michaelkirker.net](http://michaelkirker.net). 
 
-This version is a dark theme of the website
 
-## Contact details ##
+
+## Contact Details ##
 
 Michael Kirker
 
-* Email: <mkirker@uchicago.edu>
+* Email: michael@michaelkirker.net
 
 * Website: [michaelkirker.net](http://michaelkirker.net)
 
@@ -16,15 +16,15 @@ Michael Kirker
 
 
 
-## Useful resource ##
+## Useful Resources ##
 
-Below are some of the resources/guides I found useful when setting up my website hosted on Github:
+Below are some of the resources/guides I found useful when setting up the hosting of my website on Github:
 
-- Hosting sites on Github
+- Hosting websites on Github
 	- [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
 	- [http://alexcican.com/post/guide-hosting-website-dropbox-github/](http://alexcican.com/post/guide-hosting-website-dropbox-github/)
-- Google domains and Github
+- Using Google domain names with Github
   - [http://blog.christopherkylehorton.com/2015/01/setting-up-my-custom-domain-with-github.html](http://blog.christopherkylehorton.com/2015/01/setting-up-my-custom-domain-with-github.html)
   - [http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/)
-- Forwarding domain email to gmail
+- Forwarding domain-based email to a gmail account
   - [https://productforums.google.com/forum/#!topic/gmail/R4vrbItLTX0](https://productforums.google.com/forum/#!topic/gmail/R4vrbItLTX0)
