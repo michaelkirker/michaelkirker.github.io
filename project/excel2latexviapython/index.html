@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Economist">
+  <meta name="description" content="Designing tables in LaTeX can be time consuming. This code allows you to design your tables in Excel, and then automatically turn the tables into LaTeX code for import into your document. It reads in an excel file, processes the table content (along with style formatting), and writes a .tex file to the output directory.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://michaelkirker.net/">
+  <link rel="alternate" hreflang="en-us" href="http://michaelkirker.net/project/excel2latexviapython/">
 
   
 
@@ -210,14 +210,12 @@
 
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Michael Kirker">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hue391ea44e133c40224508b2222b57999_14484_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue391ea44e133c40224508b2222b57999_14484_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="http://michaelkirker.net/">
+  <link rel="canonical" href="http://michaelkirker.net/project/excel2latexviapython/">
 
   
   
@@ -234,29 +232,61 @@
   <meta property="twitter:creator" content="@michaelkirker">
   
   <meta property="og:site_name" content="Michael Kirker">
-  <meta property="og:url" content="http://michaelkirker.net/">
-  <meta property="og:title" content="Michael Kirker">
-  <meta property="og:description" content="Economist"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:url" content="http://michaelkirker.net/project/excel2latexviapython/">
+  <meta property="og:title" content="Excel 2 LaTeX via python | Michael Kirker">
+  <meta property="og:description" content="Designing tables in LaTeX can be time consuming. This code allows you to design your tables in Excel, and then automatically turn the tables into LaTeX code for import into your document. It reads in an excel file, processes the table content (along with style formatting), and writes a .tex file to the output directory."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2018-06-28T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2014-03-14T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2014-03-14T00:00:00&#43;00:00">
   
 
   
+
+
+    
+
+
+
+
+
+
+
+
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "http://michaelkirker.net/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://michaelkirker.net/project/excel2latexviapython/"
   },
-  "url": "http://michaelkirker.net/"
+  "headline": "Excel 2 LaTeX via python",
+  
+  "datePublished": "2014-03-14T00:00:00Z",
+  "dateModified": "2014-03-14T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Michael Kirker"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Michael Kirker",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://michaelkirker.net/images/icon_hue391ea44e133c40224508b2222b57999_14484_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Designing tables in LaTeX can be time consuming. This code allows you to design your tables in Excel, and then automatically turn the tables into LaTeX code for import into your document. It reads in an excel file, processes the table content (along with style formatting), and writes a .tex file to the output directory."
 }
 </script>
 
+  
 
   
 
@@ -270,11 +300,11 @@
 
 
 
-  <title>Michael Kirker</title>
+  <title>Excel 2 LaTeX via python | Michael Kirker</title>
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -369,7 +399,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+          <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
         
@@ -462,67 +492,7 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-<span class="js-widget-page d-none"></span>
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="about" class="home-section wg-about   "  >
-    <div class="container">
-      
-
-
-
+  <article class="article article-project">
 
   
 
@@ -535,202 +505,387 @@
 
 
 
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
 
-      
-      
-      <img class="avatar avatar-circle" src="/authors/admin/avatar_huc6389808d6b83777b3fc80658e6cde39_740920_270x270_fill_q90_lanczos_center.jpg" alt="Michael Kirker">
-      
 
-      <div class="portrait-title">
-        <h2>Michael Kirker</h2>
-        <h3>Economist</h3>
+  
 
-        
-        <h3>
-          
-          <span></span>
-          
-        </h3>
-        
-      </div>
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Excel 2 LaTeX via python</h1>
 
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:michael@michaelkirker.net" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="http://linkedin.com/in/michael-kirker" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin-in big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.instagram.com/michaelkirker/" target="_blank" rel="noopener">
-            <i class="fab fa-instagram big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/michaelkirker" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://scholar.google.co.uk/citations?user=2JBvdDYAAAAJ" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/michaelkirker" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
+  
 
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
-
+  
     
-    <h1>Biography</h1>
-
-    <p>I am a Kiwi who now lives in London. I work as an Economist for Deutsche Bank where I write research on a range of macroeconomic topics that affect the European Central Bank and the countries of the Euro Area.</p>
-<p>I completed my post-graduate studies at the University of Chicago where my thesis focuses on productivity knowledge spillovers and labour mobility. Before this, I worked at the Reserve Bank of New Zealand.</p>
-<p>Outside of work I enjoy exploring with my camera, and running with both City and London Hash House Harriers.</p>
 
 
-    <div class="row">
+<div class="article-metadata">
 
+  
+  
+
+  
+  <span class="article-date">
+    
+    
       
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Macroeconomics</li>
-          
-          <li>Productivity</li>
-          
-          <li>Growth</li>
-          
-          <li>Monetary policy</li>
-          
-        </ul>
-      </div>
-      
+    
+    Mar 14, 2014
+  </span>
+  
 
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in Economics</p>
-              <p class="institution">University of Chicago</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MA in Economics</p>
-              <p class="institution">University of Chicago</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BCA First class honours in Economics</p>
-              <p class="institution">Victoria University of Wellington</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
+  
 
-    </div>
-  </div>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/python/">python</a></span>
+  
+
 </div>
 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  <a class="btn btn-outline-primary my-1" href="https://github.com/michaelkirker/excel2latexviapython" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
     </div>
-  </section>
+
+    
 
 
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/python/">python</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http://michaelkirker.net/project/excel2latexviapython/&amp;text=Excel%202%20LaTeX%20via%20python" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http://michaelkirker.net/project/excel2latexviapython/&amp;t=Excel%202%20LaTeX%20via%20python" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Excel%202%20LaTeX%20via%20python&amp;body=http://michaelkirker.net/project/excel2latexviapython/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http://michaelkirker.net/project/excel2latexviapython/&amp;title=Excel%202%20LaTeX%20via%20python" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Excel%202%20LaTeX%20via%20python%20http://michaelkirker.net/project/excel2latexviapython/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http://michaelkirker.net/project/excel2latexviapython/&amp;title=Excel%202%20LaTeX%20via%20python" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huc6389808d6b83777b3fc80658e6cde39_740920_270x270_fill_q90_lanczos_center.jpg" alt="Michael Kirker">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="http://michaelkirker.net/">Michael Kirker</a></h5>
+      <h6 class="card-subtitle">Economist</h6>
+      <p class="card-text">I work as an economist at Deutsche Bank in London where my research focuses on the ECB and the euro area.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:michael@michaelkirker.net" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://linkedin.com/in/michael-kirker" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.instagram.com/michaelkirker/" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/michaelkirker" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=2JBvdDYAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/michaelkirker" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
 
       
 
