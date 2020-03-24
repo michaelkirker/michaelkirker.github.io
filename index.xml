@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Python Plot Strava Data</title>
+      <link>http://michaelkirker.net/project/pythonplotstravadata/</link>
+      <pubDate>Tue, 24 Mar 2020 00:43:06 +0000</pubDate>
+      <guid>http://michaelkirker.net/project/pythonplotstravadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Through Hiring: Knowledge From New Workers as an Explanation of Endogenous Growth</title>
       <link>http://michaelkirker.net/publication/endo-growth-labor-channel/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
@@ -85,7 +93,7 @@
     </item>
     
     <item>
-      <title>Excel 2 LaTeX via python</title>
+      <title>Excel 2 LaTeX via Python</title>
       <link>http://michaelkirker.net/project/excel2latexviapython/</link>
       <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
       <guid>http://michaelkirker.net/project/excel2latexviapython/</guid>

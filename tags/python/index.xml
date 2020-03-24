@@ -5,7 +5,7 @@
     <link>http://michaelkirker.net/tags/python/</link>
       <atom:link href="http://michaelkirker.net/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <description>python</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2020 00:43:06 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>python</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Excel 2 LaTeX via python</title>
+      <title>Python Plot Strava Data</title>
+      <link>http://michaelkirker.net/project/pythonplotstravadata/</link>
+      <pubDate>Tue, 24 Mar 2020 00:43:06 +0000</pubDate>
+      <guid>http://michaelkirker.net/project/pythonplotstravadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel 2 LaTeX via Python</title>
       <link>http://michaelkirker.net/project/excel2latexviapython/</link>
       <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
       <guid>http://michaelkirker.net/project/excel2latexviapython/</guid>

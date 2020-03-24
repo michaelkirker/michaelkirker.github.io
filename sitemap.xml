@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://michaelkirker.net/categories/</loc>
+    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/project/</loc>
+    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/tags/python/</loc>
+    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/categories/python/</loc>
+    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/project/pythonplotstravadata/</loc>
+    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/tags/</loc>
+    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://michaelkirker.net/publication_types/3/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
@@ -63,27 +93,12 @@
   </url>
   
   <url>
-    <loc>http://michaelkirker.net/categories/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://michaelkirker.net/tags/matlab/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://michaelkirker.net/categories/matlab/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://michaelkirker.net/project/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://michaelkirker.net/tags/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,16 +154,6 @@
   
   <url>
     <loc>http://michaelkirker.net/project/excel2latexviapython/</loc>
-    <lastmod>2014-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://michaelkirker.net/tags/python/</loc>
-    <lastmod>2014-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://michaelkirker.net/categories/python/</loc>
     <lastmod>2014-03-14T00:00:00+00:00</lastmod>
   </url>
   
