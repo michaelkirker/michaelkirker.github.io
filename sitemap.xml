@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://michaelkirker.net/post/</loc>
+    <lastmod>2020-05-20T00:12:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/tags/running/</loc>
+    <lastmod>2020-05-20T00:12:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/post/strava_art/</loc>
+    <lastmod>2020-05-20T00:12:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/tags/strava-art/</loc>
+    <lastmod>2020-05-20T00:12:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelkirker.net/tags/</loc>
+    <lastmod>2020-05-20T00:12:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://michaelkirker.net/categories/</loc>
     <lastmod>2020-03-24T00:43:06+00:00</lastmod>
   </url>
@@ -24,11 +49,6 @@
   
   <url>
     <loc>http://michaelkirker.net/project/pythonplotstravadata/</loc>
-    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://michaelkirker.net/tags/</loc>
     <lastmod>2020-03-24T00:43:06+00:00</lastmod>
   </url>
   
@@ -184,10 +204,6 @@
   
   <url>
     <loc>http://michaelkirker.net/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>http://michaelkirker.net/post/</loc>
   </url>
   
   <url>
