@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julien Albertini | Michael Kirker</title>
-    <link>http://michaelkirker.net/authors/julien-albertini/</link>
-      <atom:link href="http://michaelkirker.net/authors/julien-albertini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://michaelkirker.net/authors/julien-albertini/</link>
+      <atom:link href="https://michaelkirker.net/authors/julien-albertini/index.xml" rel="self" type="application/rss+xml" />
     <description>Julien Albertini</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 May 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Julien Albertini</title>
-      <link>http://michaelkirker.net/authors/julien-albertini/</link>
+      <link>https://michaelkirker.net/authors/julien-albertini/</link>
     </image>
     
     <item>
       <title>An Estimated Small Open Economy Model with Frictional Unemployment</title>
-      <link>http://michaelkirker.net/publication/soe-labour-market/</link>
+      <link>https://michaelkirker.net/publication/soe-labour-market/</link>
       <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/soe-labour-market/</guid>
+      <guid>https://michaelkirker.net/publication/soe-labour-market/</guid>
       <description></description>
     </item>
     

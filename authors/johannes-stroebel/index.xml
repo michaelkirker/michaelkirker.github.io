@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johannes Stroebel | Michael Kirker</title>
-    <link>http://michaelkirker.net/authors/johannes-stroebel/</link>
-      <atom:link href="http://michaelkirker.net/authors/johannes-stroebel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://michaelkirker.net/authors/johannes-stroebel/</link>
+      <atom:link href="https://michaelkirker.net/authors/johannes-stroebel/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes Stroebel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Johannes Stroebel</title>
-      <link>http://michaelkirker.net/authors/johannes-stroebel/</link>
+      <link>https://michaelkirker.net/authors/johannes-stroebel/</link>
     </image>
     
     <item>
       <title>Government Intervention in the Housing Market: Who Wins, Who Loses?</title>
-      <link>http://michaelkirker.net/publication/govt-intervention-housing/</link>
+      <link>https://michaelkirker.net/publication/govt-intervention-housing/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/govt-intervention-housing/</guid>
+      <guid>https://michaelkirker.net/publication/govt-intervention-housing/</guid>
       <description></description>
     </item>
     

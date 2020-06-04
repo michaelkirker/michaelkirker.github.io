@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>running | Michael Kirker</title>
-    <link>http://michaelkirker.net/tags/running/</link>
-      <atom:link href="http://michaelkirker.net/tags/running/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://michaelkirker.net/tags/running/</link>
+      <atom:link href="https://michaelkirker.net/tags/running/index.xml" rel="self" type="application/rss+xml" />
     <description>running</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2020 00:12:21 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>running</title>
-      <link>http://michaelkirker.net/tags/running/</link>
+      <link>https://michaelkirker.net/tags/running/</link>
     </image>
     
     <item>
       <title>Strava (GPS) art - Spring 2020</title>
-      <link>http://michaelkirker.net/post/strava_art/</link>
+      <link>https://michaelkirker.net/post/strava_art/</link>
       <pubDate>Wed, 20 May 2020 00:12:21 +0000</pubDate>
-      <guid>http://michaelkirker.net/post/strava_art/</guid>
+      <guid>https://michaelkirker.net/post/strava_art/</guid>
       <description>&lt;p&gt;Strava art (or GPS art) is running/cycling a route with the aim of creating a picture with the GPS recording of your activity. Looking to add some variety into my COVID-19 lock-down/isolation runs I have given this a go recently.&lt;/p&gt;
 &lt;h2 id=&#34;easter-2020&#34;&gt;Easter 2020&lt;/h2&gt;
 &lt;p&gt;For Easter I ran 18km in the shape of a rabbit. Some of the narrow London streets flanked by tall buildings make for some wobbly GPS readings, and there was one part where I had to scramble over some construction work to stay on track. But overall I was fairly happy with it as a first attempt.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;http://michaelkirker.net/strava_art_easter_2020.html&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art_easter_2020.html&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;anzac-day-2020&#34;&gt;A.N.Z.A.C. Day 2020&lt;/h2&gt;
 &lt;p&gt;This A.N.Z.A.C. day, the dawn service was cancelled due to the COVID-19 virus. With no flour to bake A.N.Z.A.C. biscuits, the only thing left to do was to run the shape of a giant kiwi around the streets of London. This one was a 21.5 km loop taking in the City, Regents Canal, and some of the parks in London.&lt;/p&gt;
 &lt;p&gt;Along the route I did come across two locked gates which impeded my progress. But I was able to navigate around them on the fly without affecting the overall route too much.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; name=&#34;iframe&#34; src=&#34;http://michaelkirker.net/strava_art_kiwi_2020.html&#34;&gt;&lt;/iframe&gt;</description>
+&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art_kiwi_2020.html&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
   </channel>

@@ -2,140 +2,140 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Kirker</title>
-    <link>http://michaelkirker.net/</link>
-      <atom:link href="http://michaelkirker.net/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://michaelkirker.net/</link>
+      <atom:link href="https://michaelkirker.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Kirker</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Michael Kirker</title>
-      <link>http://michaelkirker.net/</link>
+      <link>https://michaelkirker.net/</link>
     </image>
     
     <item>
       <title>Strava (GPS) art - Spring 2020</title>
-      <link>http://michaelkirker.net/post/strava_art/</link>
+      <link>https://michaelkirker.net/post/strava_art/</link>
       <pubDate>Wed, 20 May 2020 00:12:21 +0000</pubDate>
-      <guid>http://michaelkirker.net/post/strava_art/</guid>
+      <guid>https://michaelkirker.net/post/strava_art/</guid>
       <description>&lt;p&gt;Strava art (or GPS art) is running/cycling a route with the aim of creating a picture with the GPS recording of your activity. Looking to add some variety into my COVID-19 lock-down/isolation runs I have given this a go recently.&lt;/p&gt;
 &lt;h2 id=&#34;easter-2020&#34;&gt;Easter 2020&lt;/h2&gt;
 &lt;p&gt;For Easter I ran 18km in the shape of a rabbit. Some of the narrow London streets flanked by tall buildings make for some wobbly GPS readings, and there was one part where I had to scramble over some construction work to stay on track. But overall I was fairly happy with it as a first attempt.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;http://michaelkirker.net/strava_art_easter_2020.html&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art_easter_2020.html&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;anzac-day-2020&#34;&gt;A.N.Z.A.C. Day 2020&lt;/h2&gt;
 &lt;p&gt;This A.N.Z.A.C. day, the dawn service was cancelled due to the COVID-19 virus. With no flour to bake A.N.Z.A.C. biscuits, the only thing left to do was to run the shape of a giant kiwi around the streets of London. This one was a 21.5 km loop taking in the City, Regents Canal, and some of the parks in London.&lt;/p&gt;
 &lt;p&gt;Along the route I did come across two locked gates which impeded my progress. But I was able to navigate around them on the fly without affecting the overall route too much.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; name=&#34;iframe&#34; src=&#34;http://michaelkirker.net/strava_art_kiwi_2020.html&#34;&gt;&lt;/iframe&gt;</description>
+&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art_kiwi_2020.html&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Python Plot Strava Data</title>
-      <link>http://michaelkirker.net/project/pythonplotstravadata/</link>
+      <link>https://michaelkirker.net/project/pythonplotstravadata/</link>
       <pubDate>Tue, 24 Mar 2020 00:43:06 +0000</pubDate>
-      <guid>http://michaelkirker.net/project/pythonplotstravadata/</guid>
+      <guid>https://michaelkirker.net/project/pythonplotstravadata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Through Hiring: Knowledge From New Workers as an Explanation of Endogenous Growth</title>
-      <link>http://michaelkirker.net/publication/endo-growth-labor-channel/</link>
+      <link>https://michaelkirker.net/publication/endo-growth-labor-channel/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/endo-growth-labor-channel/</guid>
+      <guid>https://michaelkirker.net/publication/endo-growth-labor-channel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>http://michaelkirker.net/code/</link>
+      <link>https://michaelkirker.net/code/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/code/</guid>
+      <guid>https://michaelkirker.net/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>http://michaelkirker.net/cv/</link>
+      <link>https://michaelkirker.net/cv/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/cv/</guid>
+      <guid>https://michaelkirker.net/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://michaelkirker.net/research/</link>
+      <link>https://michaelkirker.net/research/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/research/</guid>
+      <guid>https://michaelkirker.net/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firm Productivity Growth and its Relationship to the Knowledge of New Worker</title>
-      <link>http://michaelkirker.net/publication/prod-growth-hires/</link>
+      <link>https://michaelkirker.net/publication/prod-growth-hires/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/prod-growth-hires/</guid>
+      <guid>https://michaelkirker.net/publication/prod-growth-hires/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-varying Natural Rates</title>
-      <link>http://michaelkirker.net/project/time-varying-natural-rates/</link>
+      <link>https://michaelkirker.net/project/time-varying-natural-rates/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/project/time-varying-natural-rates/</guid>
+      <guid>https://michaelkirker.net/project/time-varying-natural-rates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sectoral Factor Model</title>
-      <link>http://michaelkirker.net/project/sectoral-factor-model/</link>
+      <link>https://michaelkirker.net/project/sectoral-factor-model/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/project/sectoral-factor-model/</guid>
+      <guid>https://michaelkirker.net/project/sectoral-factor-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Government Intervention in the Housing Market: Who Wins, Who Loses?</title>
-      <link>http://michaelkirker.net/publication/govt-intervention-housing/</link>
+      <link>https://michaelkirker.net/publication/govt-intervention-housing/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/govt-intervention-housing/</guid>
+      <guid>https://michaelkirker.net/publication/govt-intervention-housing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unofficial UChicago Beamer Theme</title>
-      <link>http://michaelkirker.net/project/unofficial-uchicago-beamer-theme/</link>
+      <link>https://michaelkirker.net/project/unofficial-uchicago-beamer-theme/</link>
       <pubDate>Sun, 06 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/project/unofficial-uchicago-beamer-theme/</guid>
+      <guid>https://michaelkirker.net/project/unofficial-uchicago-beamer-theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excel 2 LaTeX via Python</title>
-      <link>http://michaelkirker.net/project/excel2latexviapython/</link>
+      <link>https://michaelkirker.net/project/excel2latexviapython/</link>
       <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/project/excel2latexviapython/</guid>
+      <guid>https://michaelkirker.net/project/excel2latexviapython/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Estimated Small Open Economy Model with Frictional Unemployment</title>
-      <link>http://michaelkirker.net/publication/soe-labour-market/</link>
+      <link>https://michaelkirker.net/publication/soe-labour-market/</link>
       <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/soe-labour-market/</guid>
+      <guid>https://michaelkirker.net/publication/soe-labour-market/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Drives Core Inflation? A Dynamic Factor Analysis of Tradable and Nontradable Prices</title>
-      <link>http://michaelkirker.net/publication/core-inflation/</link>
+      <link>https://michaelkirker.net/publication/core-inflation/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/core-inflation/</guid>
+      <guid>https://michaelkirker.net/publication/core-inflation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Natural Rate Variation Matter? Evidence from New Zealand</title>
-      <link>http://michaelkirker.net/publication/does-nr-variation-matter/</link>
+      <link>https://michaelkirker.net/publication/does-nr-variation-matter/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/publication/does-nr-variation-matter/</guid>
+      <guid>https://michaelkirker.net/publication/does-nr-variation-matter/</guid>
       <description></description>
     </item>
     

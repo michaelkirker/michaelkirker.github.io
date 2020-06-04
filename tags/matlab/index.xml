@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>matlab | Michael Kirker</title>
-    <link>http://michaelkirker.net/tags/matlab/</link>
-      <atom:link href="http://michaelkirker.net/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://michaelkirker.net/tags/matlab/</link>
+      <atom:link href="https://michaelkirker.net/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     <description>matlab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>matlab</title>
-      <link>http://michaelkirker.net/tags/matlab/</link>
+      <link>https://michaelkirker.net/tags/matlab/</link>
     </image>
     
     <item>
       <title>Time-varying Natural Rates</title>
-      <link>http://michaelkirker.net/project/time-varying-natural-rates/</link>
+      <link>https://michaelkirker.net/project/time-varying-natural-rates/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/project/time-varying-natural-rates/</guid>
+      <guid>https://michaelkirker.net/project/time-varying-natural-rates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sectoral Factor Model</title>
-      <link>http://michaelkirker.net/project/sectoral-factor-model/</link>
+      <link>https://michaelkirker.net/project/sectoral-factor-model/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://michaelkirker.net/project/sectoral-factor-model/</guid>
+      <guid>https://michaelkirker.net/project/sectoral-factor-model/</guid>
       <description></description>
     </item>
     
