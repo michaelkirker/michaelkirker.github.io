@@ -5,7 +5,7 @@
     <link>https://michaelkirker.net/tags/strava-art/</link>
       <atom:link href="https://michaelkirker.net/tags/strava-art/index.xml" rel="self" type="application/rss+xml" />
     <description>strava art</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 13:40:38 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 13:40:38 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>strava art</title>
@@ -15,22 +15,24 @@
     <item>
       <title>Hash trails</title>
       <link>https://michaelkirker.net/post/hash_trails/</link>
-      <pubDate>Mon, 30 Nov 2020 13:40:38 +0000</pubDate>
+      <pubDate>Fri, 04 Dec 2020 13:40:38 +0000</pubDate>
       <guid>https://michaelkirker.net/post/hash_trails/</guid>
       <description>&lt;p&gt;Several 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Hash_House_Harriers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hashes&lt;/a&gt; run through London. During the current COVID episode, some of these hashes have broken off into local mini-hashes to comply with the rules around meeting people and travelling. As a bit of an experiment I have been plotting the trails from all the groups on a map each week to show the range of different runs available all across London.&lt;/p&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Hash_House_Harriers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hash House Harrier&lt;/a&gt; groups run all over London each week. Each week the location of the trails varies as that week&amp;rsquo;s &amp;ldquo;hare&amp;rdquo; lays the trail in an area they know well. I have been collecting the GPS routes of the trails from Strava for each group and plotting them on a map using Python.&lt;/p&gt;
 &lt;p&gt;If you are interested in running/drinking with one of the Hashes, check our when and where upcoming hash trails will be on the 
 &lt;a href=&#34;http://www.londonhash.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;London Hash House Harriers site&lt;/a&gt; or the 
 &lt;a href=&#34;https://sites.google.com/site/londonhashingsite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;London Hashing Site (LaSH)&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;most-recent-trails&#34;&gt;Most recent trails&lt;/h2&gt;
-&lt;p&gt;The map below shows the trails run over the last week (or so) by the various Hash groups around London. You can zoom in on the map, and click on the location icon to get details of which group each trail belongs to.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/London_20201105.html&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;The map below shows the trails run over the last week (or so) by the various Hash House Harrier groups around London. You can zoom in on the map, and click on the location icon to get details of which group each trail belongs to.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/London_20201130.html&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201105.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201130.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;previous-trails&#34;&gt;Previous Trails&lt;/h2&gt;
 &lt;p&gt;Below are links to maps showing the trails run in previous weeks/months.&lt;/p&gt;
 &lt;p&gt;November 2020&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201130.html&#34;&gt;Week of 30 November&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201105.html&#34;&gt;Week of 05 November&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -54,17 +56,30 @@
     </item>
     
     <item>
-      <title>Strava (GPS) art - Spring 2020</title>
-      <link>https://michaelkirker.net/post/strava_art/</link>
-      <pubDate>Wed, 20 May 2020 00:12:21 +0000</pubDate>
-      <guid>https://michaelkirker.net/post/strava_art/</guid>
-      <description>&lt;p&gt;Strava art (or GPS art) is running/cycling a route with the aim of creating a picture with the GPS recording of your activity. Looking to add some variety into my COVID-19 lock-down/isolation runs I have given this a go recently.&lt;/p&gt;
-&lt;h2 id=&#34;easter-2020&#34;&gt;Easter 2020&lt;/h2&gt;
+      <title>Strava (GPS) art</title>
+      <link>https://michaelkirker.net/post/strava_art_collection/</link>
+      <pubDate>Thu, 03 Dec 2020 00:12:21 +0000</pubDate>
+      <guid>https://michaelkirker.net/post/strava_art_collection/</guid>
+      <description>&lt;p&gt;Strava art (or GPS art) is running/cycling a route with the aim of creating a picture with the GPS recording of your activity.&lt;/p&gt;
+&lt;p&gt;Below is a collection of trails I have run to create some Strava art. The GPS route of my run was recorded on my Garmin running watch and then plotted on the map once complete.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#cats&#34;&gt;Cats&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#easter-bunny&#34;&gt;Easter bunny&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#kiwi&#34;&gt;Kiwi&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h2 id=&#34;cats&#34;&gt;Cats&lt;/h2&gt;
+&lt;p&gt;Two varieties on the cat theme run. Both are a little over 10km.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art/strava_art_cat1.html&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art/strava_art_cat2.html&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;easter-bunny&#34;&gt;Easter bunny&lt;/h2&gt;
 &lt;p&gt;For Easter I ran 18km in the shape of a rabbit. Some of the narrow London streets flanked by tall buildings make for some wobbly GPS readings, and there was one part where I had to scramble over some construction work to stay on track. But overall I was fairly happy with it as a first attempt.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art_easter_2020.html&#34;&gt;&lt;/iframe&gt;
-&lt;h2 id=&#34;anzac-day-2020&#34;&gt;A.N.Z.A.C. Day 2020&lt;/h2&gt;
-&lt;p&gt;This A.N.Z.A.C. day, the dawn service was cancelled due to the COVID-19 virus. With no flour to bake A.N.Z.A.C. biscuits, the only thing left to do was to run the shape of a giant kiwi around the streets of London. This one was a 21.5 km loop taking in the City, Regents Canal, and some of the parks in London.&lt;/p&gt;
-&lt;p&gt;Along the route I did come across two locked gates which impeded my progress. But I was able to navigate around them on the fly without affecting the overall route too much.&lt;/p&gt;
+&lt;h2 id=&#34;kiwi&#34;&gt;Kiwi&lt;/h2&gt;
+&lt;p&gt;For ANZAC day: 21.5 km loop taking in the City, Regents Canal, and some of the parks in London.&lt;/p&gt;
+&lt;p&gt;Along the route I did come across two locked gates which impeded my progress. But I was able to navigate around them without affecting the overall route too much.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;500&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/strava_art_kiwi_2020.html&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
