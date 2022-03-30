@@ -3,38 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://michaelkirker.net/tags/hash-house-harriers/</loc>
-    <lastmod>2020-12-04T13:40:38+00:00</lastmod>
+    <loc>https://michaelkirker.net/publication_types/3/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelkirker.net/post/hash_trails/</loc>
-    <lastmod>2020-12-04T13:40:38+00:00</lastmod>
+    <loc>https://michaelkirker.net/authors/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/publication/prod-growth-hires/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/authors/lynda-sanderson/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/authors/michael-kirker/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/publication_types/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/publication/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/tags/hash-house-harriers/</loc>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/post/hash_trails_2021/</loc>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/tags/london/</loc>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michaelkirker.net/post/</loc>
-    <lastmod>2020-12-04T13:40:38+00:00</lastmod>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/tags/python/</loc>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michaelkirker.net/tags/running/</loc>
-    <lastmod>2020-12-04T13:40:38+00:00</lastmod>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michaelkirker.net/tags/strava-art/</loc>
-    <lastmod>2020-12-04T13:40:38+00:00</lastmod>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michaelkirker.net/tags/</loc>
-    <lastmod>2020-12-04T13:40:38+00:00</lastmod>
+    <lastmod>2021-04-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michaelkirker.net/post/strava_art_collection/</loc>
-    <lastmod>2020-12-03T00:12:21+00:00</lastmod>
+    <lastmod>2020-12-30T00:12:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelkirker.net/post/hash_trails_2020/</loc>
+    <lastmod>2020-12-04T13:40:38+00:00</lastmod>
   </url>
   
   <url>
@@ -44,11 +94,6 @@
   
   <url>
     <loc>https://michaelkirker.net/project/</loc>
-    <lastmod>2020-03-24T00:43:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelkirker.net/tags/python/</loc>
     <lastmod>2020-03-24T00:43:06+00:00</lastmod>
   </url>
   
@@ -63,32 +108,7 @@
   </url>
   
   <url>
-    <loc>https://michaelkirker.net/publication_types/3/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelkirker.net/authors/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michaelkirker.net/publication/endo-growth-labor-channel/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelkirker.net/authors/michael-kirker/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelkirker.net/publication_types/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelkirker.net/publication/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -110,16 +130,6 @@
   <url>
     <loc>https://michaelkirker.net/research/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelkirker.net/publication/prod-growth-hires/</loc>
-    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelkirker.net/authors/lynda-sanderson/</loc>
-    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>

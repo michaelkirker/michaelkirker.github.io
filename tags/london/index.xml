@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python | Michael Kirker</title>
-    <link>https://michaelkirker.net/tags/python/</link>
-      <atom:link href="https://michaelkirker.net/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    <description>Python</description>
+    <title>London | Michael Kirker</title>
+    <link>https://michaelkirker.net/tags/london/</link>
+      <atom:link href="https://michaelkirker.net/tags/london/index.xml" rel="self" type="application/rss+xml" />
+    <description>London</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 12:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Python</title>
-      <link>https://michaelkirker.net/tags/python/</link>
+      <title>London</title>
+      <link>https://michaelkirker.net/tags/london/</link>
     </image>
     
     <item>
@@ -31,22 +31,6 @@
 &lt;a href=&#34;https://michaelkirker.net/hash_trails/ch3astenders.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Python Plot Strava Data</title>
-      <link>https://michaelkirker.net/project/pythonplotstravadata/</link>
-      <pubDate>Tue, 24 Mar 2020 00:43:06 +0000</pubDate>
-      <guid>https://michaelkirker.net/project/pythonplotstravadata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Excel 2 LaTeX via Python</title>
-      <link>https://michaelkirker.net/project/excel2latexviapython/</link>
-      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://michaelkirker.net/project/excel2latexviapython/</guid>
-      <description></description>
     </item>
     
   </channel>
