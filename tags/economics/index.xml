@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics | Michael Kirker</title>
+    <link>https://michaelkirker.net/tags/economics/</link>
+      <atom:link href="https://michaelkirker.net/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Economics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 05:29:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Economics</title>
+      <link>https://michaelkirker.net/tags/economics/</link>
+    </image>
+    
+    <item>
+      <title>Bloomberg Opinion article</title>
+      <link>https://michaelkirker.net/post/bloomberg_20230725/</link>
+      <pubDate>Tue, 25 Jul 2023 05:29:00 +0000</pubDate>
+      <guid>https://michaelkirker.net/post/bloomberg_20230725/</guid>
+      <description>&lt;p&gt;Bloomberg columnist John Authers quotes from my recent ECB Watcher report (available from the 
+&lt;a href=&#34;https://research.db.com/Research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DB Research Portal&lt;/a&gt; to subscribing clients). You can read the Bloomberg article 
+&lt;a href=&#34;https://www.bloomberg.com/opinion/articles/2023-07-25/fed-ecb-boj-what-to-expect-from-central-banking-s-big-three&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
