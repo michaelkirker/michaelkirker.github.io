@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quotes | Michael Kirker</title>
-    <link>https://michaelkirker.net/tags/quotes/</link>
-      <atom:link href="https://michaelkirker.net/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Quotes</description>
+    <title>Deutsche Bank | Michael Kirker</title>
+    <link>https://michaelkirker.net/tags/deutsche-bank/</link>
+      <atom:link href="https://michaelkirker.net/tags/deutsche-bank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deutsche Bank</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Aug 2023 03:16:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Quotes</title>
-      <link>https://michaelkirker.net/tags/quotes/</link>
+      <title>Deutsche Bank</title>
+      <link>https://michaelkirker.net/tags/deutsche-bank/</link>
     </image>
     
     <item>

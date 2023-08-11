@@ -5,12 +5,23 @@
     <link>https://michaelkirker.net/post/</link>
       <atom:link href="https://michaelkirker.net/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 05:29:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Aug 2023 03:16:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://michaelkirker.net/post/</link>
     </image>
+    
+    <item>
+      <title>Reuters article</title>
+      <link>https://michaelkirker.net/post/reuters_20230811/</link>
+      <pubDate>Fri, 11 Aug 2023 03:16:00 +0000</pubDate>
+      <guid>https://michaelkirker.net/post/reuters_20230811/</guid>
+      <description>&lt;p&gt;Reuters journalist Prerana Bhat quotes our view of broadly stagnate growth for the euro area over the next few quarters in the face of several headwinds. You can read the Reuters article 
+&lt;a href=&#34;https://www.reuters.com/markets/europe/ecb-pause-september-say-slim-majority-economists-2023-08-11/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Clients of Deutsche Bank Research can find our European Economics publications 
+&lt;a href=&#34;https://research.db.com/Research/Topics/RegionalEconomics?topicId=RS00250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bloomberg Opinion article</title>
