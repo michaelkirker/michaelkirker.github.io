@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>matlab | Michael Kirker</title>
+    <title>Matlab | Michael Kirker</title>
     <link>https://michaelkirker.net/categories/matlab/</link>
       <atom:link href="https://michaelkirker.net/categories/matlab/index.xml" rel="self" type="application/rss+xml" />
-    <description>matlab</description>
+    <description>Matlab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>matlab</title>
+      <title>Matlab</title>
       <link>https://michaelkirker.net/categories/matlab/</link>
     </image>
     

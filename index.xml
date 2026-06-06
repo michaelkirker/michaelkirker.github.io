@@ -5,12 +5,22 @@
     <link>https://michaelkirker.net/</link>
       <atom:link href="https://michaelkirker.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Kirker</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Michael Kirker</title>
       <link>https://michaelkirker.net/</link>
     </image>
+    
+    <item>
+      <title>Work research</title>
+      <link>https://michaelkirker.net/work/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://michaelkirker.net/work/</guid>
+      <description>&lt;p&gt;In my role as a European Economist at Deutsche Bank, I produce and co-author a range of research pieces on the ECB, the euro area economy, and other topics. A list of that research and links to the individual reports can be found below. &lt;strong&gt;Note that a subscription to Deutsche Bank&amp;rsquo;s research is required to access all of these reports.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;List of research last updated 05 Jun 2026.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Firm Productivity Growth and the Knowledge of New Workers</title>
@@ -37,7 +47,7 @@
 &lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/ch3astenders.html&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://michaelkirker.net/hash_trails/ch3astenders.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
 </description>
     </item>
     
