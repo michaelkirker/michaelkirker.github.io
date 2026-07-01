@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Economics | Michael Kirker</title>
-    <link>https://michaelkirker.net/tags/economics/</link>
-      <atom:link href="https://michaelkirker.net/tags/economics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Economics</description>
+    <title>AI | Michael Kirker</title>
+    <link>https://michaelkirker.net/tags/ai/</link>
+      <atom:link href="https://michaelkirker.net/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Economics</title>
-      <link>https://michaelkirker.net/tags/economics/</link>
+      <title>AI</title>
+      <link>https://michaelkirker.net/tags/ai/</link>
     </image>
     
     <item>

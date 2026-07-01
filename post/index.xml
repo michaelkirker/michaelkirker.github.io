@@ -5,12 +5,27 @@
     <link>https://michaelkirker.net/post/</link>
       <atom:link href="https://michaelkirker.net/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://michaelkirker.net/post/</link>
     </image>
+    
+    <item>
+      <title>I, Robot... You, Unemployed? How Workers Are Responding to AI Fears</title>
+      <link>https://michaelkirker.net/post/ai_job_fear/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://michaelkirker.net/post/ai_job_fear/</guid>
+      <description>&lt;p&gt;Artificial intelligence is transforming the workplace at an extraordinary pace, and much of the public discussion has focused on the prospect of AI-driven job losses. But how are workers themselves responding?&lt;/p&gt;
+&lt;p&gt;In my latest research for the Deutsche Bank Research Institute, I use proprietary household survey data from the US and Europe to examine whether fears about AI are causing workers to become more cautious—or whether they&amp;rsquo;re adapting instead.&lt;/p&gt;
+&lt;p&gt;The results point to a surprising conclusion. Workers who are most concerned about AI replacing their jobs are not retreating from the economy. Instead, they are more likely to invest in AI-related training, seek higher wages, and even report stronger spending than their less-concerned peers. Rather than paralysing workers, AI anxiety appears to be encouraging many to proactively prepare for an AI-driven future.&lt;/p&gt;
+&lt;p&gt;The report also explores who is most concerned about AI, why these patterns matter for the economy, and what they could mean for businesses and policymakers as AI adoption accelerates.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in the future of work, AI, or the macroeconomic effects of technological change, I hope you&amp;rsquo;ll find the report interesting.&lt;/p&gt;
+&lt;p&gt;Read the full report: 
+&lt;a href=&#34;https://www.dbresearch.com/PROD/IE-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000632165&amp;amp;rwnode=REPORT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I, Robot&amp;hellip; You, Unemployed? How Workers Are Responding to AI Fears&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hash House Harriers trails 2021</title>
