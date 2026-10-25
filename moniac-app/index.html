@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MONIAC: Phillips’ hydraulic computer</title>
+<link rel="stylesheet" href="ui/style.css">
+<style> main { grid-template-columns:minmax(0,1fr) 360px; } #machine { min-width:860px; } </style>
+</head>
+<body>
+<header>
+  <h1>MONIAC: Phillips’ hydraulic computer</h1>
+  <p>The MONIAC (Monetary National Income Analogue Computer) was a hydraulic computer built in 1949 by the New Zealand economist <a href="https://en.wikipedia.org/wiki/Bill_Phillips_(economist)">Bill Phillips</a> at the London School of Economics. Coloured water stood for money flowing round the economy, and pumps, tanks, valves and cut-out curves modelled income, spending, taxes, trade and interest rates, so students could watch the effect of a policy change play out on the machine. About a dozen were built, and a few survive in museums and universities. This page is a replica of the fuller version Phillips described in his 1950 paper in <i>Economica</i> (Fig. 4): <a href="https://en.wikipedia.org/wiki/MONIAC">read more on Wikipedia</a>. Phillips, A. W. (1950), “Mechanical models in economic dynamics”, <i>Economica</i> 17(67), 283–305.</p>
+  <p>This is the first beta release, and there will be rough edges. It was developed with the help of a large language model. Hover over any label, tank or curve plate for an explanation of what it is and what it depends on. The controls on the right allow you to run your own experiments on the machine, or any of several built-in experiments. This page is best viewed on a desktop and will not be useable on a small screen like a phone.</p>
+</header>
+<main>
+  <section>
+    <div class="card">
+      <div class="bar">
+        <button id="playpause" class="primary">Pause</button>
+        <button id="reset">Reset to equilibrium</button>
+        <label for="speed" style="font-size:.88rem">Speed <input id="speed" type="range" min="0.05" max="1" step="0.05" value="0.25" style="width:110px;vertical-align:middle"> <output id="o-speed"></output></label>
+        <span id="clock"></span>
+      </div>
+      <div class="machine-wrap"><svg id="machine" role="img" aria-label="Schematic of the open-economy hydraulic model: active, idle and sterling tanks, taxation, government spending, imports and exports"></svg></div>
+      <p class="hint">Scroll the diagram sideways to see the whole machine.</p>
+    </div>
+    <div class="recorders six">
+      <canvas id="rec-income"></canvas><canvas id="rec-rate"></canvas><canvas id="rec-fx"></canvas>
+      <canvas id="rec-fiscal"></canvas><canvas id="rec-si"></canvas><canvas id="rec-trade"></canvas>
+    </div>
+    <div class="card" style="margin-top:12px"><div id="readout"></div></div>
+  </section>
+  <aside>
+    <div class="card">
+      <h2>Guided experiments</h2>
+      <select id="exp" aria-label="Choose an experiment"></select>
+      <div id="exp-body" hidden>
+        <p id="exp-intro"></p>
+        <button id="run-exp" class="primary">Run experiment</button>
+        <p class="watch" id="exp-watch"></p>
+        <p id="exp-ref"></p>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Controls</h2>
+      <fieldset class="modes"><legend>Money supply (interest rate)</legend>
+        <label><input type="radio" name="moneyMode" value="constant-money"> Fixed quantity of money</label>
+        <label><input type="radio" name="moneyMode" value="constant-rate"> Interest rate held at 4%</label>
+        <label><input type="radio" name="moneyMode" value="tap"> Adjustable (tap open)</label>
+        <div class="row" id="tap-row"><label for="s-tap">Money-supply level</label><output id="o-tap"></output><input id="s-tap" type="range" min="10" max="90" step="1"></div>
+        <div class="bar" style="margin:6px 0 0"><button id="inject-m2-up">Pour into M2 +20</button><button id="inject-m2-down">Draw off −20</button></div>
+      </fieldset>
+      <fieldset class="modes"><legend>Exchange-rate regime</legend>
+        <label><input type="radio" name="fxMode" value="floating"> Floating (account tap closed)</label>
+        <label><input type="radio" name="fxMode" value="managed"> Managed (account tap open)</label>
+        <label><input type="radio" name="fxMode" value="pegged"> Pegged at 100</label>
+        <div class="row" id="fx-row"><label for="s-fx">Account target (sterling balances)</label><output id="o-fx"></output><input id="s-fx" type="range" min="10" max="90" step="1"></div>
+        <div class="bar" style="margin:6px 0 0"><button id="inject-m3-up">Pour into M3 +20</button><button id="inject-m3-down">Draw off −20</button></div>
+      </fieldset>
+      <div id="sliders"></div>
+      <button id="clear-shocks">Clear shifts</button>
+      <ul id="log"></ul>
+    </div>
+  </aside>
+</main>
+<script type="module" src="ui/openApp.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MONIAC | Michael Kirker</title>
+    <link>https://michaelkirker.net/moniac/</link>
+      <atom:link href="https://michaelkirker.net/moniac/index.xml" rel="self" type="application/rss+xml" />
+    <description>MONIAC</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>MONIAC</title>
+      <link>https://michaelkirker.net/moniac/</link>
+    </image>
+    
+  </channel>
+</rss>

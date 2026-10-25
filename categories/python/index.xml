@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python | Michael Kirker</title>
+    <title>Python | Michael Kirker</title>
     <link>https://michaelkirker.net/categories/python/</link>
       <atom:link href="https://michaelkirker.net/categories/python/index.xml" rel="self" type="application/rss+xml" />
-    <description>python</description>
+    <description>Python</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2020 00:43:06 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>python</title>
+      <title>Python</title>
       <link>https://michaelkirker.net/categories/python/</link>
     </image>
     

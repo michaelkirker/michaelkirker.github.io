@@ -1,0 +1,18 @@
+{
+  "name": "Michael Kirker",
+  "short_name": "Michael Kirker",
+  "lang": "en-us",
+  "theme_color": "#b00000",
+  "background_color": "#b00000",
+  "icons": [{
+    "src": "/images/icon_hu_72e1893119467325.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu_4e9afeabeceda806.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
