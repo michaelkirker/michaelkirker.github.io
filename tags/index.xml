@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags | Michael Kirker</title>
-    <link>https://michaelkirker.net/tags/</link>
-      <atom:link href="https://michaelkirker.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Tags</title>
-      <link>https://michaelkirker.net/tags/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags | Michael Kirker</title><link>https://michaelkirker.net/tags/</link><atom:link href="https://michaelkirker.net/tags/index.xml" rel="self" type="application/rss+xml"/><description>Tags</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate><image><url>https://michaelkirker.net/media/icon.svg</url><title>Tags</title><link>https://michaelkirker.net/tags/</link></image></channel></rss>

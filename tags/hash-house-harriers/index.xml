@@ -1,85 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hash House Harriers | Michael Kirker</title>
-    <link>https://michaelkirker.net/tags/hash-house-harriers/</link>
-      <atom:link href="https://michaelkirker.net/tags/hash-house-harriers/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hash House Harriers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 12:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Hash House Harriers</title>
-      <link>https://michaelkirker.net/tags/hash-house-harriers/</link>
-    </image>
-    
-    <item>
-      <title>Hash House Harriers trails 2021</title>
-      <link>https://michaelkirker.net/post/hash_trails_2021/</link>
-      <pubDate>Mon, 19 Apr 2021 12:00:00 +0000</pubDate>
-      <guid>https://michaelkirker.net/post/hash_trails_2021/</guid>
-      <description>&lt;p&gt;The 
-&lt;a href=&#34;http://www.londonhash.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;London Hash House Harriers&lt;/a&gt; (LH3) run weekly all over London. Using GPS data from Strava, I have created a map (below) showing the routes run so far this year.&lt;/p&gt;
-&lt;p&gt;Due to Covid-19 lockdown restrictions, we were only able to begin running again in April,  and even these runs were socially distanced (no running the trail in a big group, no pub at the end). As restrictions are eased we hope to get back to the traditional hashing format soon.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/LH3_2021.html&#34;&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hash House Harriers | Michael Kirker</title><link>https://michaelkirker.net/tags/hash-house-harriers/</link><atom:link href="https://michaelkirker.net/tags/hash-house-harriers/index.xml" rel="self" type="application/rss+xml"/><description>Hash House Harriers</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 12:00:00 +0000</lastBuildDate><image><url>https://michaelkirker.net/media/icon.svg</url><title>Hash House Harriers</title><link>https://michaelkirker.net/tags/hash-house-harriers/</link></image><item><title>Hash House Harriers trails 2021</title><link>https://michaelkirker.net/notes/hash_trails_2021/</link><pubDate>Mon, 19 Apr 2021 12:00:00 +0000</pubDate><guid>https://michaelkirker.net/notes/hash_trails_2021/</guid><description>&lt;p&gt;The
+(LH3) run weekly all over London. Using GPS data from Strava, I have created a map (below) showing the routes run so far this year.&lt;/p&gt;
+&lt;p&gt;Due to Covid-19 lockdown restrictions, we were only able to begin running again in April, and even these runs were socially distanced (no running the trail in a big group, no pub at the end). As restrictions are eased we hope to get back to the traditional hashing format soon.&lt;/p&gt;
+&lt;iframe width="100%" height="600" name="iframe" src="https://michaelkirker.net/hash_trails/LH3_2021.html"&gt;&lt;/iframe&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/LH3_2021.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ch3astenders&#34;&gt;CH3astEnders&lt;/h2&gt;
-&lt;p&gt;Ever since the first lockdown in 2020, 
-&lt;a href=&#34;https://cityhash.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Hash&lt;/a&gt; has been running in local pods in order to comply is lockdown restrictions. I have spent the majority of my time running with the east-end group known as CH3astEnders (or City Eels). Each week, our trails took us over&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/ch3astenders.html&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;h2 id="ch3astenders"&gt;CH3astEnders&lt;/h2&gt;
+&lt;p&gt;Ever since the first lockdown in 2020,
+has been running in local pods in order to comply is lockdown restrictions. I have spent the majority of my time running with the east-end group known as CH3astEnders (or City Eels). Each week, our trails took us over&lt;/p&gt;
+&lt;iframe width="100%" height="600" name="iframe" src="https://michaelkirker.net/hash_trails/ch3astenders.html"&gt;&lt;/iframe&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/ch3astenders.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hash trails 2020</title>
-      <link>https://michaelkirker.net/post/hash_trails_2020/</link>
-      <pubDate>Fri, 04 Dec 2020 13:40:38 +0000</pubDate>
-      <guid>https://michaelkirker.net/post/hash_trails_2020/</guid>
-      <description>&lt;p&gt;Several 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Hash_House_Harriers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hash House Harrier&lt;/a&gt; groups run all over London each week. Each week the location of the trails varies as that week&amp;rsquo;s &amp;ldquo;hare&amp;rdquo; lays the trail in an area they know well. I have been collecting the GPS routes of the trails from Strava for each group and plotting them on a map using Python.&lt;/p&gt;
-&lt;p&gt;If you are interested in running/drinking with one of the Hashes, check our when and where upcoming hash trails will be on the 
-&lt;a href=&#34;http://www.londonhash.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;London Hash House Harriers site&lt;/a&gt; or the 
-&lt;a href=&#34;https://sites.google.com/site/londonhashingsite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;London Hashing Site (LaSH)&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;most-recent-trails&#34;&gt;Most recent trails&lt;/h2&gt;
+&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;</description></item><item><title>Hash trails 2020</title><link>https://michaelkirker.net/notes/hash_trails_2020/</link><pubDate>Fri, 04 Dec 2020 13:40:38 +0000</pubDate><guid>https://michaelkirker.net/notes/hash_trails_2020/</guid><description>&lt;p&gt;Several
+groups run all over London each week. Each week the location of the trails varies as that week&amp;rsquo;s &amp;ldquo;hare&amp;rdquo; lays the trail in an area they know well. I have been collecting the GPS routes of the trails from Strava for each group and plotting them on a map using Python.&lt;/p&gt;
+&lt;p&gt;If you are interested in running/drinking with one of the Hashes, check our when and where upcoming hash trails will be on the
+or the
+.&lt;/p&gt;
+&lt;h2 id="most-recent-trails"&gt;Most recent trails&lt;/h2&gt;
 &lt;p&gt;The map below shows the trails run over the last week (or so) by the various Hash House Harrier groups around London. You can zoom in on the map, and click on the location icon to get details of which group each trail belongs to.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/London_20201207.html&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width="100%" height="600" name="iframe" src="https://michaelkirker.net/hash_trails/London_20201207.html"&gt;&lt;/iframe&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201207.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;previous-trails&#34;&gt;Previous Trails&lt;/h2&gt;
+&lt;/p&gt;
+&lt;h2 id="previous-trails"&gt;Previous Trails&lt;/h2&gt;
 &lt;p&gt;Below are links to maps showing the trails run in previous weeks/months.&lt;/p&gt;
 &lt;p&gt;December&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201207.html&#34;&gt;Week of 7 December&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;November 2020&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201130.html&#34;&gt;Week of 30 November&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201105.html&#34;&gt;Week of 05 November&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;October 2020&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201019.html&#34;&gt;Week of 19 October&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20201005.html&#34;&gt;Week of 05 October&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;September 2020&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20200928.html&#34;&gt;Week of 28 September&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20200921.html&#34;&gt;Week of 21 September&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/London_20200914.html&#34;&gt;Week of 14 September&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

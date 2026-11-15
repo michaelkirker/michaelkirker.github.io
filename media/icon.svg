@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Michael Kirker</title>
+  <rect width="64" height="64" rx="14" fill="#1c1917"/>
+  <polyline points="12,46 24,36 33,40 50,18" fill="none" stroke="#f97316" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50" cy="18" r="5" fill="#f97316"/>
+</svg>

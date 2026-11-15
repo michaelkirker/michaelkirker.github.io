@@ -1,37 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>London | Michael Kirker</title>
-    <link>https://michaelkirker.net/tags/london/</link>
-      <atom:link href="https://michaelkirker.net/tags/london/index.xml" rel="self" type="application/rss+xml" />
-    <description>London</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 12:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>London</title>
-      <link>https://michaelkirker.net/tags/london/</link>
-    </image>
-    
-    <item>
-      <title>Hash House Harriers trails 2021</title>
-      <link>https://michaelkirker.net/post/hash_trails_2021/</link>
-      <pubDate>Mon, 19 Apr 2021 12:00:00 +0000</pubDate>
-      <guid>https://michaelkirker.net/post/hash_trails_2021/</guid>
-      <description>&lt;p&gt;The 
-&lt;a href=&#34;http://www.londonhash.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;London Hash House Harriers&lt;/a&gt; (LH3) run weekly all over London. Using GPS data from Strava, I have created a map (below) showing the routes run so far this year.&lt;/p&gt;
-&lt;p&gt;Due to Covid-19 lockdown restrictions, we were only able to begin running again in April,  and even these runs were socially distanced (no running the trail in a big group, no pub at the end). As restrictions are eased we hope to get back to the traditional hashing format soon.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/LH3_2021.html&#34;&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>London | Michael Kirker</title><link>https://michaelkirker.net/tags/london/</link><atom:link href="https://michaelkirker.net/tags/london/index.xml" rel="self" type="application/rss+xml"/><description>London</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 12:00:00 +0000</lastBuildDate><image><url>https://michaelkirker.net/media/icon.svg</url><title>London</title><link>https://michaelkirker.net/tags/london/</link></image><item><title>Hash House Harriers trails 2021</title><link>https://michaelkirker.net/notes/hash_trails_2021/</link><pubDate>Mon, 19 Apr 2021 12:00:00 +0000</pubDate><guid>https://michaelkirker.net/notes/hash_trails_2021/</guid><description>&lt;p&gt;The
+(LH3) run weekly all over London. Using GPS data from Strava, I have created a map (below) showing the routes run so far this year.&lt;/p&gt;
+&lt;p&gt;Due to Covid-19 lockdown restrictions, we were only able to begin running again in April, and even these runs were socially distanced (no running the trail in a big group, no pub at the end). As restrictions are eased we hope to get back to the traditional hashing format soon.&lt;/p&gt;
+&lt;iframe width="100%" height="600" name="iframe" src="https://michaelkirker.net/hash_trails/LH3_2021.html"&gt;&lt;/iframe&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/LH3_2021.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ch3astenders&#34;&gt;CH3astEnders&lt;/h2&gt;
-&lt;p&gt;Ever since the first lockdown in 2020, 
-&lt;a href=&#34;https://cityhash.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Hash&lt;/a&gt; has been running in local pods in order to comply is lockdown restrictions. I have spent the majority of my time running with the east-end group known as CH3astEnders (or City Eels). Each week, our trails took us over&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://michaelkirker.net/hash_trails/ch3astenders.html&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;h2 id="ch3astenders"&gt;CH3astEnders&lt;/h2&gt;
+&lt;p&gt;Ever since the first lockdown in 2020,
+has been running in local pods in order to comply is lockdown restrictions. I have spent the majority of my time running with the east-end group known as CH3astEnders (or City Eels). Each week, our trails took us over&lt;/p&gt;
+&lt;iframe width="100%" height="600" name="iframe" src="https://michaelkirker.net/hash_trails/ch3astenders.html"&gt;&lt;/iframe&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://michaelkirker.net/hash_trails/ch3astenders.html&#34;&gt;Full page version of map&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;</description></item></channel></rss>
